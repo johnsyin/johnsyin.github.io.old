@@ -4,7 +4,7 @@ permalink: /machine-learning/
 title: "ML Posts by Tags"
 author_profile: true
 header:
-	image: "/images/about.jpg"
+  image: "/images/about.jpg"
 ---
 
 Copy the code below and put it on the page where your projects will all be listed.
